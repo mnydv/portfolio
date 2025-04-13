@@ -22,12 +22,3 @@
 ✔️ Expertise \
 ✔️ Tech Stack \
 ✔️ Contact \
-
-## Running Locally
-
-```bash
-$ git clone https://github.com/nirajprakash/mn_ydv.github.io.git
-$ cd braydoncoyer.dev
-$ npm install
-$ ng serve
-```
